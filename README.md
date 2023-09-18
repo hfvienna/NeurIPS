@@ -4,7 +4,7 @@
 
 Hi,
 Setup and onboarding with toy submission was great, thank you for that.
-We will initially follow this vid: https://www.youtube.com/watch?v=g68qlo9Izf0 and see how far we get tomorrow.
+We will initially follow this vid: https://www.youtube.com/watch?v=g68qlo9Izf0 and this blog https://blog.langchain.dev/using-langsmith-to-support-fine-tuning-of-open-source-llms/ and see how far we get tomorrow.
 As Attila and I are currently not employed in any company with access to GPUs we would love the AWS credits.
 
 Best,
