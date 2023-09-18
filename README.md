@@ -10,6 +10,7 @@ As Attila and I are currently not employed in any company with access to GPUs we
 Best,
 Hannes
 
+PS: Don't get thrown off by our repository name, it is a reference to "Odysseus nobody". ;)
 
 # 20230918 morning:
 HI, IF YOU READ THIS, THERE IS NOTHING HERE YET, WE ARE JUST SETTING UP OUR TEAM APPLICATION AND REPOSITORY
