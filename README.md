@@ -3,8 +3,8 @@
 ## Update 20231022 Submissions (in progress)
 
 There is a total of five submissions, two for the track 4090, three for the track A100.
-As we are currently not in the top 10 in the leaderboard anymore and one of us is in vacation, we do not consider a top 2 place likely, so we just provide the zip files to eval the models without detailed instructions or scripts.
-Should we be in top 2 or all others fail, we will provide instructions/scripts instantly.
+As we are currently not in the top 10 in the leaderboard anymore and one of us is in vacation, we do not consider a top 2 place likely, so we just provide the zip files to eval the models without detailed instructions.
+Should we be in top 2 or all others fail, we will provide instructions that explain the scripts in the folder ...detailedinstructions.
 
 You find the following folders:
 
