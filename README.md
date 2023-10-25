@@ -2,14 +2,26 @@
 
 ## Update 20231022 Submissions (in progress)
 
+There is a total of five submissions, two for the track 4090, three for the track A100.
+As we are currently not in the top 10 in the leaderboard anymore and one of us is in vacation, we do not consider a top 2 place likely, so we just provide the zip files to eval the models without detailed instructions or scripts.
+Should we be in top 2 or all others fail, we will provide instructions/scripts instantly.
+
 You find the following folders:
+
+Probably it is easiest just to use the folder zip files with the submissions as provided to evalbot.
 
 Track 4090:
 
-1. submission_4090_1_attila which refers to the following submission in track 4090: (12.) attkap (Oct 11, 07:37:31AM)
-2. submission_4090_2_hfvienna which refers to the following submission in track 4090: (20.) hannesvienna (Oct 02, 06:59:13PM)
+1. submission_4090_1_fine_tune which refers to the following submission in track 4090: (12.) attkap (Oct 11, 07:37:31AM)
+2. submission_4090_2_base which refers to the following submission in track 4090: (20.) hannesvienna (Oct 02, 06:59:13PM)
 
 Track A100:
+1. submission_A100_3_70b (!!! this needs around two hours of downloading time during runtime !!!)
+2. submission_A100_4_base 
+3. submission_A100_5_fine_tune
+
+---
+
 
 ## Update:20230918 afternoon
 
