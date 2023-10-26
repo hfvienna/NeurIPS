@@ -31,11 +31,12 @@ app = FastAPI()
 
 
 @app.post("/process")
+
 async def process_request(input_data: ProcessRequest) -> ProcessResponse:
     if input_data.seed is not None:
         torch.manual_seed(input_data.seed)
 
-    encoded = tokenizer(input_data.prompt, return_tensors="pt")
+    encoded = tokenizer("Let's work this out in a step by step way to be sure we have the right answer. " + input_data.prompt, return_tensors="pt")
 
     prompt_length = encoded["input_ids"][0].size(0)
     max_returned_tokens = prompt_length + input_data.max_new_tokens
