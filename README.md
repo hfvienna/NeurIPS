@@ -1,8 +1,8 @@
 # unimportant
 
-## Update 20231022 Submissions (in progress)
+## Update 20231026 Submissions
 
-There is a total of five submissions, two for the track 4090, three for the track A100.
+There is a total of six submissions, three for the track 4090, three for the track A100.
 As we are currently not in the top 10 in the leaderboard anymore and one of us is in vacation, we do not consider a top 2 place likely, so we just provide the zip files to eval the models without detailed instructions.
 Should we be in top 2 or all others fail, we will provide instructions that explain the scripts in the folder ...detailedinstructions.
 
@@ -14,11 +14,12 @@ Track 4090:
 
 1. submission_4090_1_fine_tune which refers to the following submission in track 4090: (12.) attkap (Oct 11, 07:37:31AM)
 2. submission_4090_2_base which refers to the following submission in track 4090: (20.) hannesvienna (Oct 02, 06:59:13PM)
+3. submission_4090_3_fine_tune_2
 
 Track A100:
-1. submission_A100_3_70b (!!! this needs around two hours of downloading time during runtime !!!)
-2. submission_A100_4_base 
-3. submission_A100_5_fine_tune
+1. submission_A100_4_70b (!!! this needs around two hours of downloading time during runtime !!!)
+2. submission_A100_5_base 
+3. submission_A100_6_fine_tune
 
 ---
 
