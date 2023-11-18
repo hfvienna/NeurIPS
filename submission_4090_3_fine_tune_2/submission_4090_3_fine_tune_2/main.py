@@ -21,7 +21,7 @@ from api import (
 logger = logging.getLogger(__name__)
 # Configure the logging module
 logging.basicConfig(level=logging.INFO)
-model_name = "attkap/mistral_guanaco_1ep"
+model_name = "llm-efficiency-challenge/hfvienna-4090-mistral_guanaco_1ep"
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
 model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.bfloat16, device_map="auto",
                                              trust_remote_code=True, ).eval()
